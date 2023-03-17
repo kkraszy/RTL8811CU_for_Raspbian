@@ -1,0 +1,1 @@
+cmd_/home/pi/RTL8811CU_for_Raspbian/8821cu.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/RTL8811CU_for_Raspbian/8821cu.ko /home/pi/RTL8811CU_for_Raspbian/8821cu.o /home/pi/RTL8811CU_for_Raspbian/8821cu.mod.o;  true
